@@ -1,4 +1,4 @@
-<h1 align="center">🌙 InnovaCore</h1>
+<h1 align="center"> InnovaCore</h1>
 
 <p align="center">
   <strong><i>Led by WOMEN, Defined by INNOVATION</i></strong><br>
